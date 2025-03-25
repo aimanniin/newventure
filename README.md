@@ -1,1 +1,3 @@
-# newventure
+New Venture APPS FILE
+
+THIS IS ONLY DUMMY
